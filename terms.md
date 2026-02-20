@@ -48,3 +48,7 @@ We strive to maintain reliable service but do not guarantee uninterrupted access
 We may update these terms periodically.
 
 ⸻
+
+6. Contact
+
+📧 gate.leb101@gmail.com
