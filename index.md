@@ -12,9 +12,9 @@ This Privacy Policy explains how we collect, use, and protect your information.
 
 We collect:
 
-- Name and email address
+- Name and Phone Number
 - Authentication data (Firebase Authentication)
-- Workout session data (exercises, sets, weights)
+- Workout session data (exercises, sets, weights, reps)
 - Push notification tokens
 - Crash diagnostics (Firebase Crashlytics)
 
@@ -23,6 +23,8 @@ We do NOT collect:
 - Financial information
 - Location data
 - Browsing history
+- Contacts
+- Email addresses
 
 ---
 
