@@ -2,36 +2,49 @@ Terms of Service for Gate
 
 Last Updated: February 2026
 
-By using Gate, you agree to the following terms:
+Gate is a training management and session tracking application used by trainers and their clients.
 
-1. Use of Service
+By using Gate, you agree to the following:
 
-Gate is a workout tracking platform for trainers and clients.
+⸻
 
-You agree to:
-	•	Use the app lawfully
-	•	Provide accurate account information
-	•	Not attempt to exploit or disrupt the service
+1. Purpose of the App
 
-2. Account Responsibility
+Gate is designed to:
+	•	Schedule training sessions
+	•	Track workout sessions
+	•	Record exercise data
+	•	Manage trainer-client relationships
 
-You are responsible for maintaining the security of your account.
+Gate does not provide fitness instruction, medical advice, or training programs.
 
-3. Health Disclaimer
+⸻
 
-Gate does not provide medical advice.
-Users participate in physical training at their own risk.
+2. User Accounts
 
-We are not responsible for injuries.
+Users are responsible for:
+	•	Providing accurate account information
+	•	Keeping login credentials secure
+	•	Using the app in compliance with applicable laws
 
-4. Termination
+⸻
 
-We may suspend accounts that violate these terms.
+3. Data Usage
 
-5. Changes
+User data is stored securely and used only for app functionality.
 
-We may update these terms at any time.
+We do not sell or share personal data.
 
-6. Contact
+⸻
 
-📧 gate.leb101@gmail.com
+4. Service Availability
+
+We strive to maintain reliable service but do not guarantee uninterrupted access.
+
+⸻
+
+5. Modifications
+
+We may update these terms periodically.
+
+⸻
